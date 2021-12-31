@@ -1,0 +1,10 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /sso-server
+
+
+
+sso:
+  server:
+    url: ssoserver.com:8080/sso-server
